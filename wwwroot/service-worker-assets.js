@@ -13,7 +13,7 @@
       "url": "_framework\/dotnet.wasm.br"
     },
     {
-      "hash": "sha256-9TmP7M5zW1rA9Rt8hOnuUBB3uEYIeeEh39HP\/2CvRgw=",
+      "hash": "sha256-0QKZbrJ3TzaMiS6ZwDIZfBdLLi362w3MoT\/gbH9hhe4=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/System.Xml.ReaderWriter.dll.br"
     },
     {
-      "hash": "sha256-0Fc0Fxsq4Wu0u3\/fRr00oiC3y98cAwZLylqwVx\/+ack=",
+      "hash": "sha256-GiCNu8o5HLjD7qv2bnclYXeYmbqOfpPAOZ5jdHhxdYs=",
       "url": "_framework\/Uccen.BlazorApp.dll.br"
     },
     {
@@ -245,5 +245,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "WJ7aOlSM"
+  "version": "fPOmOhGX"
 };
