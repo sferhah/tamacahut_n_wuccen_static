@@ -41,8 +41,8 @@
       "System.Text.RegularExpressions.dll": "sha256-yUBWR+Tz09cVVHbYvGzEE\/ZKS61Hi\/IcibVwZ7ig87o=",
       "System.Threading.dll": "sha256-38kfO7O4fbEH6LNscgAzs2vSIBs4Qi34uNO8Hp9cipI=",
       "System.Xml.ReaderWriter.dll": "sha256-PID\/qAONGYc+BTHJbP2hsbrc95QRnX97qikFKmNrqQQ=",
-      "Uccen.BlazorApp.dll": "sha256-55xyy2NMu8iVjBE4iEjYnOnTvFFcAga13eMkIp2NUkc=",
-      "Uccen.Transliteration.dll": "sha256-rHTzA0NItDfdKXWDd840WYuPmAFjZlXb0r7JFrMLj04="
+      "Uccen.BlazorApp.dll": "sha256-hrZqCu3I5A7xjRNBswRL2lWBEKGWwIwJ9FaKoyfKh\/k=",
+      "Uccen.Transliteration.dll": "sha256-Akw7yx1dt0MhVj6kX5LrZzFCEwSYSYHOf5xOR2vjxnY="
     },
     "extensions": null,
     "lazyAssembly": null,
