@@ -13,7 +13,7 @@
       "url": "_framework\/dotnet.wasm.br"
     },
     {
-      "hash": "sha256-CkB3Ifqzjm9HzYzIf88W943WpX7swEAI87dL5wgm2KM=",
+      "hash": "sha256-jJmX8ACJ09rOCyduczIV0GeYhnPAr3ePYm6OyepD\/II=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -153,11 +153,11 @@
       "url": "_framework\/System.Xml.ReaderWriter.dll.br"
     },
     {
-      "hash": "sha256-bI6FR4je4YF++roeCzIcmdZOZ3bVIqsZP6Q0oAgSRgg=",
+      "hash": "sha256-hbw\/CEwjnlwPsN+u03Tu9WpsE8lGMEFJCAUE0DalHKc=",
       "url": "_framework\/Uccen.BlazorApp.dll.br"
     },
     {
-      "hash": "sha256-P18PnOROcl1VRvMdxsXa2asw0iNsn9x3cIHVM351jC0=",
+      "hash": "sha256-OVXHrD2GMyggRv9Dqan\/wkivAUKRgH1reLVisDUc92U=",
       "url": "_framework\/Uccen.Transliteration.dll.br"
     },
     {
@@ -213,7 +213,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-QDgyVc7eX8xYJbvfaWLDc73nqVgDnkSHp8bi1+VtKe4=",
+      "hash": "sha256-VhMGPOViiWlVwbtGaV2lCkBzBNYDfH1Vx+PewYb0Ikw=",
       "url": "data\/tamacahut_n_wuccen.json"
     },
     {
@@ -245,5 +245,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "\/+ewN+Is"
+  "version": "GWEoARic"
 };
