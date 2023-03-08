@@ -213,7 +213,7 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-VhMGPOViiWlVwbtGaV2lCkBzBNYDfH1Vx+PewYb0Ikw=",
+      "hash": "sha256-uQ9lEhIvnqHda8Z5iuJEYM+IzDrtb31wUgj4w9KFytk=",
       "url": "data\/tamacahut_n_wuccen.json"
     },
     {
@@ -245,5 +245,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "GWEoARic"
+  "version": "l5sV7exy"
 };
